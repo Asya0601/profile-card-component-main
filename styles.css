@@ -265,3 +265,12 @@ span{
         margin-block: 12%;
     }
 }
+
+@media(min-width:1500px){
+    .main{
+        width: 30%;
+
+        margin-inline: 35%;
+        margin-block: 10%;
+    }
+}
