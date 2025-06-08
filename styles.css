@@ -7,6 +7,7 @@
 
 :root{
     --darkCyan: hsl(185, 75%, 39%);
+    --darkerCyan:hsl(185, 85%, 23%);
     --veryDarkDesaturatedBlue: hsl(229, 23%, 23%);
     --darkGrayishBlue: hsl(227, 10%, 46%);
     --darkGray: hsl(0, 0%, 59%);
@@ -96,7 +97,7 @@ body{
 
     border-radius: 1rem;
 
-    box-shadow: 0px 56px 94px 37px var(--darkCyan);
+    box-shadow: 0px 53px 94px 0px var(--darkerCyan);
 }
 
 .wallpaperOfPost{
